@@ -35,10 +35,7 @@ fn template(context, props, content) {
           <nav class="page-navigation">
             <div class="page-navigation__track">
               <a class="page-navigation__link page-navigation__link--site-name" href={context.link_to("index")}>
-                Your Page Name
-              </a>
-              <a class="page-navigation__link" href={context.link_to("#example-page")}>
-                See examples
+                urban-octo-fortnight
               </a>
             </div>
             <a

@@ -11,11 +11,8 @@ fn template(context, props, content) {
           This is a sample page that comes with Poet. Take a look around to see how everything works. You can also replace all of this with your own content.
         </h2>
         <div class="homepage__cta">
-          <a href={context.link_to("#example-page")} class="homepage__cta__button homepage__cta__button--primary">
-            See examples
-          </a>
-          <a href="https://poet.intentee.com" class="homepage__cta__button" target="_blank">
-            Documentation
+          <a href="#" class="homepage__cta__button homepage__cta__button--primary">
+            urban-octo-fortnight
           </a>
         </div>
       </div>
